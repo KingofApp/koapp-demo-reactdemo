@@ -1,0 +1,15 @@
+{
+      "name": "React Demo",
+      "identifier": "reactdemo",
+      "type": "R",
+      "icon": "code",
+      "showOn": {
+        "market": false,
+        "dragDrop": true
+      },
+      "view": "modules/reactdemo/index.html",
+      "files": ["modules/reactdemo/controller.js","modules/reactdemo/main.js"],
+      "scope": {
+        "name": "Test"
+      }
+    }
